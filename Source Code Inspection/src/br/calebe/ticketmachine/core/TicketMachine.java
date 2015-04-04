@@ -8,6 +8,8 @@ import java.util.Iterator;
  *
  * @author Calebe de Paula Bianchini
  */
+
+//Lucas Nunes - Tia 31224490
 public class TicketMachine {
 
     protected int valor;
