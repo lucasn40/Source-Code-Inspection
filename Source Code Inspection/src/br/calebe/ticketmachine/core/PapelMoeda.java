@@ -4,6 +4,8 @@ package br.calebe.ticketmachine.core;
  *
  * @author Calebe de Paula Bianchini
  */
+
+//Lucas Nunes - Tia 31224490
 public class PapelMoeda {
 
     protected int valor;
