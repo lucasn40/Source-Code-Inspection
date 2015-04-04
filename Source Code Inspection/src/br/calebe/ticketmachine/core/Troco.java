@@ -6,6 +6,8 @@ import java.util.Iterator;
  *
  * @author Calebe de Paula Bianchini
  */
+
+//Lucas Nunes - Tia 31224490
 class Troco {
 
     protected PapelMoeda[] papeisMoeda;
